@@ -9,10 +9,10 @@
 > 
 > Açık Kaynak Kod
 > 
-> Aşırı Basit Kodlama Becerisi ile Geliştiriel bilir Yapı
+> Aşırı Basit Kodlama Becerisi ile Geliştiriel bilir yapı
 
 ## Kurulum
-Dosyaları Çekin ve FTP  yardımı ile Sunucunuza Yükletyin
+Dosyaları Çekin ve FTP  yardımı ile Sunucunuza Yükleyin
 
 ## Eklentiler
 
